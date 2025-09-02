@@ -2,6 +2,8 @@
 my first project : un personnage (boo) peut se déplacer, sauter, tirer et utiliser une attaque spéciale. Des slimes apparaissent et une pluie de comètes peut tomber.
 
 <img width="1073" height="718" alt="image" src="https://github.com/user-attachments/assets/479a3716-e6c9-4ce6-b01b-879c52afea70" />
+<img width="1078" height="701" alt="image" src="https://github.com/user-attachments/assets/de4ab97e-40f0-4e99-8fab-1d6d7cb4a421" />
+
 
 ---
 
