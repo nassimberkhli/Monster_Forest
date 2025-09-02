@@ -1,5 +1,6 @@
 # Monster_Forest
-my first project : un personnage peut se déplacer, sauter, tirer et utiliser une attaque spéciale. Des slimes apparaissent et une pluie de comètes peut tomber.
+my first project : un personnage (boo) peut se déplacer, sauter, tirer et utiliser une attaque spéciale. Des slimes apparaissent et une pluie de comètes peut tomber.
+<img width="1073" height="718" alt="image" src="https://github.com/user-attachments/assets/479a3716-e6c9-4ce6-b01b-879c52afea70" />
 ---
 
 ## ⚙️ Installation
@@ -45,8 +46,3 @@ python jeux.py
 * `jeux.py` : point d’entrée
 * `classgame.py`, `classplayer.py`, `classmonstre.py`, `classcomet*.py` : logique du jeu
 * `classprojectile*.py`, `projectile_base.py` : projectiles
-<img width="1073" height="718" alt="image" src="https://github.com/user-attachments/assets/479a3716-e6c9-4ce6-b01b-879c52afea70" />
-
-
-
-Projet basé sur **Pygame**. Have fun 🎯
