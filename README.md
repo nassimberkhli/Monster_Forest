@@ -42,6 +42,7 @@ python jeux.py
 * Quand la jauge est pleine, tu peux lancer une attaque spéciale.
 * Des comètes tombent régulièrement et doivent être évitées.
 * Si ta vie tombe à 0, la partie recommence.
+* Astuce : les attaques inflige plus de dégâts si on attaque les slimes par derrière
 
 ---
 
